@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2330
     wikipedia: http://en.wikipedia.org/wiki/Alexander_Maclaren
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13601#Expositions-of-Holy-Scripture--Romans-Corinthians--To-II-Corinthians-Chap.-V-
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2004-10-05'
 gutenberg_type: Text
